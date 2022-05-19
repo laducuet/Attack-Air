@@ -1,5 +1,6 @@
 # Game Attack air
 Game bắn máy bay dựa trên cảm hứng game điện thoại thời xưa
+
 1.	Hướng dẫn cài đặt:
    •	Clone code về từ link github 
    •	Vào thư mục debug -> vào gamedemo.exe -> chơi thử game
