@@ -1,9 +1,11 @@
-# Game Attack air
-Game bắn máy bay dựa trên cảm hứng game điện thoại thời xưa
+# Game Attack Air
+Game bắn máy bay dựa trên cảm hứng game trên điện thoại
 
 1.	Hướng dẫn cài đặt:
    •	Clone code về từ link github 
+   
    •	Vào thư mục debug -> vào gamedemo.exe -> chơi thử game
+   
 2.	Mô tả chung về trò chơi, các ý tưởng chính:
    •	Các đối tượng có trong game :
       Nhân vật
@@ -53,6 +55,5 @@ Game bắn máy bay dựa trên cảm hứng game điện thoại thời xưa
      Học cách lập trình hướng đối tượng
      Tối ưu hóa và clean code
      Cài các thư viện bên ngoài ide vào để thực hiện chương trình
-
 
 
