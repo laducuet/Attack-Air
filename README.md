@@ -63,6 +63,8 @@ Game bắn máy bay dựa trên cảm hứng game trên điện thoại
    •	File ExplosionObject.h thực hiện việc định nghĩa lớp ExplosionObject thừa kế lớp BaseObject có chức năng :
    
       Thực hiện việc load hiệu ứng vụ nổ
+   
+   link demo game : https://youtu.be/FIjpTmD_3u0
 
 4.	Các kĩ thuật lập trình được sử dụng
 
