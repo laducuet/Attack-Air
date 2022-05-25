@@ -78,7 +78,9 @@ Game bắn máy bay dựa trên cảm hứng game trên điện thoại
 
    •	Kết luận 
    
-      Game sau khi đã hoàn thành có thể cho người dùng trải nghiệm, đây là 1 game cơ bản nhưng vẫn đầy đủ các chức năng cần thiết để người dùng có thế chơi 1 cách thoải mái nhất
+      Game sau khi đã hoàn thành có thể cho người dùng trải nghiệm, đây là 1 game cơ bản nhưng vẫn đầy đủ các chức năng cần thiết để người dùng có thế chơi 1 cách thoải mái nhất.
+      
+      Mặc dù là game nhỏ nhưng nó vẫn giúp em tiếp thu được rất nhiều kiến thức và hướng tới làm một lập trình viên chuyên nghiệp trong tương lai.
       
    •	Hướng phát triển
    
